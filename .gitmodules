@@ -1,0 +1,6 @@
+[submodule "procraft_dss_frontend"]
+	path = procraft_dss_frontend
+	url = https://github.com/CVUT-FS-12110/procraft_dss_frontend.git
+[submodule "procraft_dss"]
+	path = procraft_dss
+	url = https://github.com/CVUT-FS-12110/procraft_dss.git
